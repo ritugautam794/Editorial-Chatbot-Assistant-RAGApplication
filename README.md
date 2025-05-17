@@ -96,3 +96,16 @@ text
 ### 3. Tweet Summary  
 **Input Article**: "New study reveals 40% decline in Arctic ice..."  
 **Tweet**: "🚨 Breaking: Arctic ice shrinks 40% in decade, study shows. Urgent climate action needed to preserve polar ecosystems. #ClimateChange #ArcticNews 🌍"
+
+Improving Output and Accuracy
+Upgrade to larger or instruction-tuned models (e.g., Flan-T5-Large, GPT-4) for better answers.
+
+Fine-tune models on CBC editorial data for higher relevance and fewer hallucinations.
+
+Experiment with chunk size and overlap to improve context quality.
+
+Use few-shot prompting (add example Q&A pairs) to guide response style.
+
+Enable user feedback to identify and correct errors.
+
+Regularly update the knowledge base to ensure information is current.
